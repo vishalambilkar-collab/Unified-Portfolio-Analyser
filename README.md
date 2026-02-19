@@ -2,10 +2,7 @@
 
 A unified dashboard to track stocks, mutual funds, crypto, and gold in one place.
 
-## About
 
-This is a code bundle for Unified Portfolio Analyzer.  
-Original design: https://www.figma.com/design/0ayWl7j51N3qlCDEQjmNb9/Unified-Portfolio-Analyzer
 
 ## Features
 
