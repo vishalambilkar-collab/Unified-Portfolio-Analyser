@@ -2,7 +2,7 @@
 
 > **WCE Hackathon 2026 | Team Fintech Titans**
 
-InvestiZen is a modern, AI-powered fintech dashboard that consolidates all your investments — Stocks, Mutual Funds, Crypto, and Gold — into a single, intelligent platform. Stop juggling multiple apps. Start making smarter financial decisions.
+InvestiZen is a modern, fintech dashboard that consolidates all your investments — Stocks, Mutual Funds, Crypto, and Gold — into a single, intelligent platform. Stop juggling multiple apps. Start making smarter financial decisions.
 
 ---
 
